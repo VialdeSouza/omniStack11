@@ -6,4 +6,4 @@
 ###### Be the Hero é uma plataforma que conecta ongs de proteção aos animais aos apoidores e amigos.
 
 ## Mobile
-![mobile](gif-mobile.gif)
+![mobile-gif](gif-mobile.gif)
